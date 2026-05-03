@@ -2,6 +2,7 @@
 
 > An interactive command-line portfolio showcasing projects, skills, and professional experience.
 
+
 ## ⚡ Quick Start
 
 ```bash
